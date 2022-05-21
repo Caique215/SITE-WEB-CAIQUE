@@ -2,6 +2,9 @@
 PÁGINA WEB SITE 
 
 
-<p align="center">
-      <img src=" " width="500px" height="450px" title="Back end"> </p>
-  <p>Baixe meu currículo</p>
+<p align="right">
+      <img src="https://github.com/Caique215/SITE-WEB-CAIQUE/blob/main/DESKTOP.png" width="500px" height="450px" title="Back end"> </p>
+  <p>DESKTOP</p>
+  <p align="left">
+      <img src="" width="500px" height="450px" title="Back end"> </p>
+  <p>DESKTOP</p>
