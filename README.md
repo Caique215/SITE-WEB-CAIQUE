@@ -1,10 +1,8 @@
 # SITE-WEB-CAIQUE
-PÁGINA WEB SITE 
-
-
-<p align="right">
-      <img src="https://github.com/Caique215/SITE-WEB-CAIQUE/blob/main/DESKTOP.png" width="500px" height="450px" title="Back end"> </p>
-  <p>DESKTOP</p>
-  <p align="left">
-      <img src="" width="500px" height="450px" title="Back end"> </p>
+PÁGINA WEB SITE ##TODA DOCUMENTAÇÃO DISPONÍVEL##
+:desktop_computer:[YouTube](https://www.youtube.com/watch?v=04Rae-kNrSw/)
+ <p align="center"><img src="https://github.com/Caique215/SITE-WEB-CAIQUE/blob/main/Mobile.png" width="700px" height=550px" title="Back end"> </p>
+  <p>MOBILE</p>
+<p align="center">
+      <img src="https://github.com/Caique215/SITE-WEB-CAIQUE/blob/main/DESKTOP.png" width="700px" height="550px" title="Back end"> </p>
   <p>DESKTOP</p>
